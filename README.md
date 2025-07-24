@@ -1,4 +1,4 @@
 # First-day
 This is my first repository.
 <br>
-Author-Gunjan Morya
+Author-Gunjan (First Day)
