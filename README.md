@@ -1,2 +1,3 @@
 # First-day
-This is y first repository
+This is my first repository
+Author-Gunjan Morya
